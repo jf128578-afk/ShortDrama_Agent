@@ -1,0 +1,4 @@
+.streamlit/
+workspace_data/
+.venv/
+__pycache__/
