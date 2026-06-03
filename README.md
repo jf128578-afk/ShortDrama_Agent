@@ -1,15 +1,16 @@
-# 🎬 ShortDrama_Agent | AI 短剧脚本工业化工作台
+# 🎬 ShortDrama_Agent | AI 短剧拉片小工具
 
 ## 💡 产品定位 (Product Vision)
-**这不是一款简单的“AI 写作软件”，而是一套旨在解决内容机构产能瓶颈的“AI 脚本工业化流水线工具”。**
+**原创对标短剧剧本不会写？一站式解决从剧本清洗格式、架构分析、原创大纲搭建、正文撰写、导出**
+<img width="1545" height="928" alt="image" src="https://github.com/user-attachments/assets/16625a54-3dc6-4ea2-9ce5-ce7ba7b74ff4" />
+<img width="1517" height="948" alt="image" src="https://github.com/user-attachments/assets/359538dc-7605-4ff3-adc4-62d6823e01ec" />
+<img width="1536" height="1007" alt="image" src="https://github.com/user-attachments/assets/f823b383-4602-4861-b945-674dcff890e9" />
+<img width="1541" height="987" alt="image" src="https://github.com/user-attachments/assets/f327be76-84ec-4e68-883c-accb43280305" />
+<img width="1535" height="985" alt="image" src="https://github.com/user-attachments/assets/1d22147e-3795-4730-8f34-72111d053b9d" />
+<img width="336" height="615" alt="image" src="https://github.com/user-attachments/assets/cbb5a153-6311-4b3b-b0d8-d625e13d4cb3" />
 
-结合互联网产品逻辑与深刻的内容网感，本项目致力于将不可控的非标内容创作，转化为可规模化复制的标准工业流程 (SOP)。通过 AI 赋能，极大降低 0-1 阶段的创作摩擦力，实现爆款情绪消费内容的稳定产出。
 
-## 🚀 核心架构与工作流 (Core Workflow)
-本项目基于多智能体协同 (Multi-Agent Collaboration) 理念设计，深度模拟专业编剧团队的作业流：
-- **🧠 创意与脑洞引擎**：精准锁定受众情绪价值。
-- **🎭 人设与世界观构建**：支持精细化声调控制（如特定主角的定制化语气与行为准则）。
-- **📑 分集大纲与剧本输出**：将长远主线拆解为高完播率的短剧集节点。
+
 
 ## 🛠️ 技术栈 (Tech Stack)
 - **Frontend**: Streamlit (提供极简、高效的交互体验)
